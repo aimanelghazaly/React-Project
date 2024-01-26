@@ -1,0 +1,23 @@
+/* Banner.css */
+.lmj-banner {
+    color: white;
+    background-color:white;
+    text-align: center;
+    padding: 32px;
+    border-bottom: solid 3px black;
+  }
+  
+  .lmj-banner h1 {
+    font-size: 2em;
+    margin: 0;
+  }
+  .lmj-title{
+    color: black;
+    position: absolute;
+    top: 90px; /* Ajustez la valeur selon vos besoins pour déplacer vers le haut */
+    right: 90px;
+    font-size: 54px;
+  
+    
+  }
+  
